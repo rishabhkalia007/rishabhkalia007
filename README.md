@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @rishabhkalia007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .. at gitlab
-- 
+- 👀 My final goal is to be a CISO
+- 🌱 I’m currently learning (ISC2)
+- 💞️ I already took a certification- security +
 
 <!---
 rishabhkalia007/rishabhkalia007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
